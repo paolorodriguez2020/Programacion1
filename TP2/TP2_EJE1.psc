@@ -21,6 +21,8 @@ Algoritmo TP2_EJE1
 			Escribir "TIPO DE BOMBA 4 : Bomba de pasta alimenticia"
 		De Otro Modo:
 			Escribir "no existe valor para tipo de bomba"
+			//FinAlgoritmo
+			
 	Fin Segun
 	
 FinAlgoritmo
